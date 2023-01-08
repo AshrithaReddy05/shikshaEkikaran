@@ -1,0 +1,19 @@
+{
+  "name": "index.html",
+  "version": "1.0.0",
+  "description": "my ps project",
+  "main": "dashboard.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "ps"
+  ],
+  "author": "Ashritha",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {}
+}
